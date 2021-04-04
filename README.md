@@ -1,4 +1,5 @@
 # DiffusivityInversion
+https://doi.org/10.5281/zenodo.4661951
 Separate and joint inversion for diffusivity using the Jacob-Ferris model and all dominant frequencies.
 
 The code is shared as a part of submission to WRR journal (DOI will be updated after the publication).
